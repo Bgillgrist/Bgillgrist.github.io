@@ -5,8 +5,8 @@ Welcome to my portfolio! Here you'll find details on my data analytics projects 
 ## Projects
 
 - [Bayesian Linear Regression Project](bayesian-regression/README.md): A Bayesian logistic regression model predicting the win percentage of NFL teams from cap space management.
-  - [Project Report](bayesian-regression/STAT\%20535\%20Project\%20Report.docx)
-  - [Project Summary](bayesian-regression/STAT\%20535\%20Project\%20Summary.docx)
+  - [Project Report](bayesian-regression/Project.Report)
+  - [Project Summary](bayesian-regression/Project.Summary)
 
 - [TrackMan Data Analysis Tool](trackman-analysis/README.md): An R Shiny app for analyzing baseball TrackMan data.
   - [R Code](trackman-analysis/Baseball.TrackMan.Analysis.R)
