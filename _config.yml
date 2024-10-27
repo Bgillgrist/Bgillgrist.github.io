@@ -1,3 +1,10 @@
 title: "Brennan Gillgrist Data Analytics Portfolio"
 description: "A set of data analytics projects I have worked on so far:"
 theme: jekyll-theme-minimal
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects
+  - title: "Resume"
+    url: /assets/Resume.pdf
