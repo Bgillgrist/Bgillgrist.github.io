@@ -16,4 +16,4 @@ These predictions were posted on the largest South Carolina Gamecocks fan page @
 
 # Code Snippet:
 
-- ![Lineup Code Snippet](../lineup-optimization/SC%20Pred%20Snippet.png)  
+- ![South Carolina Game Predictor Example](../assets/SC%20Pred%20Snippet.png)
