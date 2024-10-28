@@ -18,4 +18,4 @@ To run the code, just input the player names and stats in the code (labeled in t
 
 # Code Snippet
 
--!Lineup Code Snippet](Lineup Code Snippet.png)
+-![Lineup Code Snippet](Lineup Code Snippet.png)
