@@ -14,3 +14,5 @@ I am a senior statistics major at the University of South Carolina graduating in
 - [TrackMan Data Analysis Tool](trackman-analysis/README.md): An R Shiny app for analyzing baseball TrackMan data.
 
 - [Baseball Lineup Optimization Tool](lineup-optimization/README.md): A simulation and regression tool for finding the optimal baseball lineup given key stats.
+
+-  [South Carolina Football Game Predictor](cfb-predictor/README.md): A python program using logistic and linear regression predicting the outcomes of South Carolina football games.
