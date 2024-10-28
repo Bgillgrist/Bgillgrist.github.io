@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Brennan Gillgrist Data Analytics Portfolio
 
 Welcome to my portfolio! Here you will find details on my data analytics projects throughout my career.
