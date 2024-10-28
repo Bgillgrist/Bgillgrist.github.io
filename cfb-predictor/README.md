@@ -8,7 +8,7 @@ This project utilized Google Collaboratory to run python code from files stored 
 
 These predictions were posted on the largest South Carolina Gamecocks fan page @thegamecockinsider which can be viewed here:
 
-[Follow the predictions on Instagram](https://www.instagram.com/thegamecockinsider/)
+[The Gamecock Insider Instagram Link](https://www.instagram.com/thegamecockinsider/)
 
 # Output Image Example:
 
