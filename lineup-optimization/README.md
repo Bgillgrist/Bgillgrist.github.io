@@ -1,9 +1,6 @@
 # Baseball Lineup Optimization Tool
 
-A simulation and regression tool for finding the optimal baseball lineup given key stats.
-
-- [Python Code](Lineup.Opt.Snippet.py)  
-- ![Lineup Optimization Example](../assets/Lineup%20Optimization%20Example.png)
+A simulation and regression tool for finding the optimal baseball lineup given key stats. This project was my capstone project with the Arroyo Seco Saints baseball team over the summer 2024 season.
 
 # Explanation and Usage
 
@@ -14,3 +11,10 @@ This is a baseball lineup optimization tool that I created in python during my t
 The code runs through every permutation of the batting order and outputs the new best batting order for each method as the old one is beat. Running through every possible combination would take a long time and the diminishing return for waiting for it to finish is often not worth it, however it is optimal to let it finish. I believe the game simulation method to be more accurate and a better way to set a batting order due to the small sample size of the regression (1 season). 
 
 To run the code, just input the player names and stats in the code (labeled in the code) and then let it run. Don't compare the two different methods side by side because they are calculated completely differently. Find out which method you prefer and then only compare those method results to each other.
+
+# Output Image
+
+- ![Lineup Optimization Example](../assets/Lineup%20Optimization%20Example.png)
+
+# Code Snippet
+
