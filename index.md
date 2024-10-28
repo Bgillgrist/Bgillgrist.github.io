@@ -9,10 +9,10 @@ Welcome to my portfolio! Here you'll find details on my data analytics projects 
   - [Project Summary](bayesian-regression/Project.Summary)
 
 - [TrackMan Data Analysis Tool](trackman-analysis/README.md): An R Shiny app for analyzing baseball TrackMan data.
-  - [R Code](trackman-analysis/Baseball.TrackMan.Analysis.R)
+  - [R Code](trackman-analysis/TrackMan.Analysis.Snippet.R)
 
 - [Baseball Lineup Optimization Tool](lineup-optimization/README.md): A simulation and regression tool for finding the optimal baseball lineup given key stats.
-  - [Python Code](lineup-optimization/Lineup.Opt.py)
+  - [Python Code](lineup-optimization/Lineup.Opt.Snippet.py)
 
 ## About Me
 I am a senior statistics major at the University of South Carolina graduating in December of 2024. I have had multiple internships in baseball analytics with the Tampa Bay Rays and the Arroyo Seco Saints. More information about my career so far can be found in my resume below: 
