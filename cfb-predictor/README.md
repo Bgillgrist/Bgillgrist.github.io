@@ -6,10 +6,14 @@ Originally created to predict the outcome of South Carolina Gamecocks football g
 
 This project utilized Google Collaboratory to run python code from files stored in my Google Drive. The code imports a csv file of South Carolina football game data from 2023-2010 and models the upcoming game based on that data. There are three models in the code: win probability, South Carolina score prediction, and opponent score prediction. After calculating these, the program will simulate the season 50,000 times and calculate the probability of each number of wins for the rest of the season.
 
+These predictions were posted on the largest South Carolina Gamecocks fan page @thegamecockinsider which can be viewed here:
+
+[Follow the predictions on Instagram](https://www.instagram.com/thegamecockinsider/)
+
 # Output Image Example:
 
-- ![Lineup Optimization Example](../assets/Lineup%20Optimization%20Example.png)
+- ![South Carolina Game Predictor Example](../assets/SC%20Pred%20Example.png)
 
 # Code Snippet:
 
-- ![Lineup Code Snippet](../lineup-optimization/Lineup%20Code%20Snippet.png)  
+- ![Lineup Code Snippet](../lineup-optimization/SC%20Pred%20Snippet.png)  
