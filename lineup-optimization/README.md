@@ -16,6 +16,6 @@ To run the code, just input the player names and stats in the code (labeled in t
 
 - ![Lineup Optimization Example](../assets/Lineup%20Optimization%20Example.png)
 
-# Code Snippet:
+# Example Code Snippet:
 
 - ![Lineup Code Snippet](../lineup-optimization/Lineup%20Code%20Snippet.png)  
