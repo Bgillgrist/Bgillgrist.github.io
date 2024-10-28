@@ -1,3 +1,16 @@
+# TrackMan Data Analysis Tool
+
+An R Shiny app for analyzing baseball TrackMan data.
+
+- [R Code](TrackMan.Analysis.Snippet.R)  
+- ![TrackMan Analysis ANOVA Example](../assets/ANOVA%20Example.png)  
+- ![TrackMan Analysis Player Comparison Example](../assets/Player%20Comparison%20Example.png)  
+- ![TrackMan Analysis Stat Leader Example](../assets/Stat%20Leader%20Example.png)  
+- ![TrackMan Analysis Pitcher Report Example](../assets/Pitcher%20Report%20Example.png)  
+- ![TrackMan Analysis Hitter Report Example](../assets/Hitter%20Report%20Example.png)
+
+# Explanation and Usage
+
 This is an R Shiny app to analyze TrackMan .csv's. The code allows for an upload process where you can upload as many games as you would like. There are 5 sections to the code: 
 1. Anova: You can compare player stats in differnet situations to see if there is a difference in performance for different situations.
 2. Player Comparison: Allows you to compare multiple player's stats side by side.
