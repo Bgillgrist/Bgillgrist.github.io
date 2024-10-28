@@ -1,6 +1,6 @@
 # Bayesian Linear Regression Project
 
-A Bayesian logistic regression model predicting the win percentage of NFL teams from cap space management. I completed this project in 2024 in my Bayesian statistics class at the Univeristy of South Carolina. 
+A Bayesian linear regression model predicting the win percentage of NFL teams from cap space management. I completed this project in 2024 in my Bayesian statistics class at the Univeristy of South Carolina. 
 
 # Project Summary: 
 
@@ -10,6 +10,6 @@ I applied a Normal Bayesian regression model with this data set using informativ
 
 While I can never completely predict win percentage for an upcoming season, this MAE does tell me that there is a relationship between managing cap space and team performance. Further analysis into more season predictor variables would obviously provide a better prediction for upcoming performance but this analysis here tells us that an NFL general manager negotiating contracts directly influences the season outcome. We can also see that a good defense is one of the best predictors compared to spending big on any other position group. Managing the cap space well will help a team perform better and negotiating good deals is key to a team’s performance.
 
-# Full Project Report Document: 
+# Full Project Report Download: 
 
 - [Project Report](Project.Report)  
