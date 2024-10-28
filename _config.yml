@@ -3,6 +3,7 @@ description: "A set of data analytics projects I have worked on so far:"
 theme: jekyll-theme-minimal
 
 include: [_includes]
+markdown: kramdown
 
 nav:
   - title: "Home"
