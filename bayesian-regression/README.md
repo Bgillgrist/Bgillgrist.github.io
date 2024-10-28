@@ -1,1 +1,6 @@
-This Bayesian Logistic Regression project was completed in 2023 in my university Bayesian statistics course. The project summary and detailed results are attached.
+# Bayesian Linear Regression Project
+
+A Bayesian logistic regression model predicting the win percentage of NFL teams from cap space management.
+
+- [Project Report](Project.Report)  
+- [Project Summary](Project.Summary)
