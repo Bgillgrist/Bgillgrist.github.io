@@ -1,3 +1,12 @@
+# Baseball Lineup Optimization Tool
+
+A simulation and regression tool for finding the optimal baseball lineup given key stats.
+
+- [Python Code](Lineup.Opt.Snippet.py)  
+- ![Lineup Optimization Example](../assets/Lineup%20Optimization%20Example.png)
+
+# Explanation and Usage
+
 This is a baseball lineup optimization tool that I created in python during my time at the Arroyo Seco Saints. There are two methods in this code to determine the best possible lineup.
 1. Linear regression predicting runs from the OBP and SLG of each batting order spot from the 2023 Saints season.
 2. Game simulation using OBP, SLG, AVG, and PA to find out the expected number of runs for each batting order.
