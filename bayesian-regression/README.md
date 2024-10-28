@@ -1,6 +1,6 @@
 # Bayesian Linear Regression Project
 
-A Bayesian logistic regression model predicting the win percentage of NFL teams from cap space management.
+A Bayesian logistic regression model predicting the win percentage of NFL teams from cap space management. I completed this project in 2024 in my Bayesian statistics class at the Univeristy of South Carolina. 
 
 # Project Summary: 
 
