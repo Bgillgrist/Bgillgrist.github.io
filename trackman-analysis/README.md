@@ -30,4 +30,4 @@ Hitter Report Example:
 
 # Example Code Snippet: 
 
--![TrackMan Analysis Code Snippet(../trackman-analysis/TrackMan%20Analysis%20Snippet.png)
+- ![TrackMan Analysis Hitter Report Example](../trackman-analysis/TrackMan%20Analysis%20Snippet.png)
