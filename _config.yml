@@ -8,3 +8,7 @@ nav:
     url: /projects
   - title: "Resume"
     url: /assets/Resume.pdf
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/your-linkedin-profile
+
+profile_picture: /assets/your-profile-picture.png
