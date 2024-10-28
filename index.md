@@ -2,10 +2,6 @@
 
 Welcome to my portfolio! Here you will find details on my data analytics projects throughout my career.
 
- ![Profile Picture](assets/DSC_0767.JPG)
-
- [LinkedIn Profile](https://www.linkedin.com/in/brennan-gillgrist-012698267/)
-
 ## About Me
 I am a senior statistics major at the University of South Carolina graduating in December of 2024. I have had multiple internships in baseball analytics with the Tampa Bay Rays and the Arroyo Seco Saints. More information about my career so far can be found in my resume below: 
 
