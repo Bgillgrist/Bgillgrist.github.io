@@ -12,4 +12,4 @@ While I can never completely predict win percentage for an upcoming season, this
 
 # Full Project Report Download: 
 
-- [Project Report](Project.Report)  
+- [Project Report](bayesian-regression/Project.Report)  
