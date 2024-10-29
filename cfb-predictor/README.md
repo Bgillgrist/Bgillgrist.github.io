@@ -10,6 +10,10 @@ These predictions were posted on the largest South Carolina Gamecocks fan page @
 
 [These predictions can be viewed here](https://www.instagram.com/thegamecockinsider/)
 
+# Sample Post: 
+
+- ![South Carolina Wins Prediction Post](../assets/Example%20Post.png)
+
 # Output Image Example:
 
 - ![South Carolina Game Predictor Example](../assets/SC%20Pred%20Example.png)
