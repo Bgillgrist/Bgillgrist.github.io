@@ -1,6 +1,6 @@
-# College Football Game Predictor
+# South Carolina Football Game Predictor
 
-Originally created to predict the outcome of South Carolina Gamecocks football games, the project has recently expanded to apply to any FBS college football team. The example here is the original version meant to predict only South Carolina games as it is a fully complete project. I will update with the full college football game predictor when it is complete.
+This is the original project I created working for The Gamecock Insider during the 2024 college football season. The goal of this project is to predict the outcome of South Carolina football games using historical data. This project eventually expanded to predict the outcome of any college football game and that project is also listed in my portfolio.
 
 # Explanation and Usage:
 
