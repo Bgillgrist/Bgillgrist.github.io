@@ -9,12 +9,12 @@ I am a graduated statistics major from the University of South Carolina currentl
 
 ## Projects
 
-- [BG.Analytics](bg.analytics/README.md): A College Football Dashboard for both single game predictions and season long outlooks and simulations. 
+- [BG.Analytics](bg.analytics/README.md): A College Football Dashboard for both single game predictions and season long outlooks and simulations.
 
-- [Bayesian Linear Regression Project](bayesian-regression/README.md): A Bayesian logistic regression model predicting the win percentage of NFL teams from cap space management.
+- [South Carolina Football Game Predictor](sc-football-predictor/README.md): A python program using logistic and linear regression predicting the outcomes of South Carolina Gamecocks football games.
 
 - [TrackMan Data Analysis Tool](trackman-analysis/README.md): An R Shiny app for analyzing baseball TrackMan data.
 
 - [Baseball Lineup Optimization Tool](lineup-optimization/README.md): A simulation and regression tool for finding the optimal baseball lineup given key stats.
 
-- [South Carolina Football Game Predictor](sc-football-predictor/README.md): A python program using logistic and linear regression predicting the outcomes of South Carolina Gamecocks football games.
+- [Bayesian Linear Regression Project](bayesian-regression/README.md): A Bayesian logistic regression model predicting the win percentage of NFL teams from cap space management.
