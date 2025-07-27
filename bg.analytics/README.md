@@ -1,6 +1,6 @@
 # BG.Analytics Dashboard
 
-This is the advancement of the South Carolina Football Predictor. The project was created before the start of the 2025 season and was posted to @BG.Analytics on Instagram. A College Football Dashboard created to predict games and season outcomes. Utilizes a created metric "Playoff Points" to predict College Football Playoff seeding and champions.
+This is the advancement of the South Carolina Football Predictor. The project was created before the start of the 2025 season and was posted to [@BG.Analytics](https://www.instagram.com/bg.analytics/) on Instagram. A College Football Dashboard created to predict games and season outcomes. Utilizes a created metric "Playoff Points" to predict College Football Playoff seeding and champions.
 
 # Explanation and Usage:
 
