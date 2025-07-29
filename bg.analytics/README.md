@@ -2,6 +2,10 @@
 
 This is the advancement of the South Carolina Football Predictor. The project was created before the start of the 2025 season and was posted to [@BG.Analytics](https://www.instagram.com/bg.analytics/) on Instagram. A College Football Dashboard created to predict games and season outcomes. Utilizes a created metric "Playoff Points" to predict College Football Playoff seeding and champions.
 
+Along with this project, I built a content posting schedule based on responses from followers to ensure the posts were interesting and continuing to build the audience. I reached out to many different college football fan pages of all sizes for Instagram Collaborations in order to get more exposure with each new post. 
+
+Not only was this a data science project building the dashboard, this project highlights experience in marketing my work and ability to correspond with social media employees.
+
 # Explanation and Usage:
 
 The Dashboard has many pages each with different uses: 
