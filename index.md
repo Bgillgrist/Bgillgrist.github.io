@@ -7,7 +7,7 @@ I am a graduated statistics major from the University of South Carolina currentl
 
 [Download my Resume](assets/Brennan%20Gillgrist%20Resume.pdf)
 
-## Projects
+## Projects (Click the titles for more information)
 
 - [BG.Analytics](bg.analytics/README.md): A College Football Dashboard for both single game predictions and season long outlooks and simulations.
 
