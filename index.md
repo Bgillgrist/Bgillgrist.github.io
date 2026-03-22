@@ -5,7 +5,7 @@ Welcome to my portfolio! Here you will find details on my data analytics project
 ## About Me
 I am a graduated statistics major from the University of South Carolina currently working as a data analyst / scientist at BlueCross BlueShield of South Carolina. I manage a College Football Analytics Instagram page where I post game predictions and season outlooks over the course of the season. I have had multiple internships in baseball analytics with the Tampa Bay Rays and the Arroyo Seco Saints. More information about my career so far can be found in my resume below: 
 
-[Download my Resume](assets/Brennan%20Gillgrist%20Resume.pdf)
+[View my Resume](assets/Brennan%20Gillgrist%20Resume.pdf)
 
 ## Projects (Click the titles for more information)
 
